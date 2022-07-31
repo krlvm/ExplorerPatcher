@@ -154,6 +154,9 @@
 ;b Use classic drive groupings in This PC
 "UseClassicDriveGrouping"=dword:00000000
 [HKEY_CURRENT_USER\Software\ExplorerPatcher]
+;b Shrink File Explorer address bar height
+"ShrinkExplorerAddressBar"=dword:00000000
+[HKEY_CURRENT_USER\Software\ExplorerPatcher]
 ;c 2 Control Interface
 ;x 0 Windows 10 Ribbon (default)
 ;x 2 Windows 7 Command Bar
